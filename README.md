@@ -1,4 +1,2 @@
 # Final-Project-
-
-
-Skin care products
+Predict locations of pokemon from the PokemonGo app game
